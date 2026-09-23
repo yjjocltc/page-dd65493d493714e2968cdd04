@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "81a87884dedf5e1475a4520e",
+  "owner": "yjjocltc",
+  "repo": "page-dd65493d493714e2968cdd04",
+  "title": "不坠云(NoDrop)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dd65493d493714e2968cdd04",
+      "a": "不坠云(NoDrop)",
+      "b": "稳定全球clash加速器",
+      "entity": "不坠云(NoDrop)",
+      "brand": "不坠云(NoDrop)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "12f4520c4b2d9a80f7ed4a2d15414e23fa041d11a16cde4109ad69599023541a",
+      "content": {
+        "primary_entity": "不坠云(NoDrop)",
+        "keyword1": "不坠云(NoDrop)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，不坠云(NoDrop)提供基础版、旗舰版与团队版三档订阅，分别对应每月 100GB、300GB 与 1000GB 流量，支持 3 台、5 台与 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与定制路由，年付方案月均开销更低。",
+          "AI_HERO_SUBTITLE": "不坠云，稳定连接全球",
+          "AI_HERO_INTRO": "不坠云(NoDrop)提供多档订阅套餐，覆盖从个人到团队的不同需求。三档方案按流量、设备数和线路等级区分，可依据日常用量和设备数量选择，并通过支持 Clash 的客户端导入订阅使用。",
+          "AI_VISUAL_TITLE": "不坠云多端订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按流量设备区分",
+          "AI_HIGHLIGHT_2": "支持主流 Clash 客户端",
+          "AI_HIGHLIGHT_3": "年付方案更省月均开销",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "根据用量与设备数量选择合适的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻量浏览，旗舰版 300GB 满足多设备日常，团队版 1000GB 应对高用量场景。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用手机、电脑、平板数量选择。",
+          "AI_FEATURE_TITLE_3": "年付更省心",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用按月均计算更划算。",
+          "AI_CLIENTS_TITLE": "选择设备对应客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选择 Clash 系客户端导入订阅，按设备习惯配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路等级上递进，旗舰版含 IPLC 专线优化，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "依据每月流量、同时在线设备数和线路需求，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统对应的 Clash 客户端是否已安装，并了解订阅所需的配置格式。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "按照所使用客户端的订阅导入说明，粘贴订阅地址完成配置，即可连接到不坠云节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，连接不坠云",
+          "AI_CLOSING_TEXT": "按用量和设备数挑一档，导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可根据常用手机、电脑和平板数量选择合适档位。",
+          "AI_FAQ_ANSWER_2": "月付和年付均可，年付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，可按使用时长灵活续费。",
+          "AI_FAQ_ANSWER_3": "客户端因设备而异，Windows 常用 Clash 类，macOS 可用 ClashX 类，手机端有对应客户端，路由器可按插件文档配置。",
+          "AI_FAQ_ANSWER_4": "基础版解锁基础流媒体，旗舰版全节点原生流媒体解锁，团队版使用 VIP 专属高带宽节点，按需选择即可。",
+          "AI_FAQ_ANSWER_5": "订阅配置完成后可按客户端文档更新订阅链接。若节点无响应，先检查订阅是否过期，再尝试切换线路或更新客户端。",
+          "AI_FAQ_QUESTION_1": "不坠云各套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "套餐如何计费，是否支持年付？",
+          "AI_FAQ_QUESTION_3": "不同设备该用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁和线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "订阅链接如何更新，节点无响应怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "adrbk.cn",
+    "host": "adrbk.cn"
+  },
+  "file_hashes": {
+    "index.html": "3675cee60f09f91434b73f8788c8ad269914a8bd26875e9317290211faac48c5",
+    "sitemap.xml": "b943c1b1fcd62480cfa3b910eb76b7591b200595804cd2b6479b9dde2ee8c9f1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c25641dddfa04e45a32ea3a78852830830ef0d9dd48a2ad4af2bce7afdbcce7e",
+    "robots.txt": "5ac0a4ac8c8830c9b82a834346e5b29af3b6db0872fee58e6b48615de0fedcb2",
+    "cf38396d150f26bd2f9c7949d46f172f.txt": "ef206a757602331e7b7a56831ac094feb2d213bf992eead498e5129e081f7a97"
+  },
+  "revision": "2b2caec4e100a257d65ecaf4f2e09c10d27a64c85061e9b28c20dca83d3a9923"
+}

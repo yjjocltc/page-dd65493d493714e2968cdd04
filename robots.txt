@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adrbk.cn/sitemap.xml
